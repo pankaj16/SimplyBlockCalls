@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Block Calls Lite</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_blockcall">Blockcall</string>
+    <string name="title_activity_changepassword">Changepassword</string>
+    <string name="Cancel">Cancel</string>
+    <string name="textviewNewPass">New Password</string>
+    <string name="NewPass">New Password</string>
+    <string name="btnAbout">About App</string>
+    <string name="title_activity_check">Check</string>
+
+</resources>
